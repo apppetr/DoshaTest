@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.apppetr.doshatest">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:requestLegacyExternalStorage="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VedaTest">
+        <meta-data
+            android:name="com.google.android.wearable.standalone"
+            android:value="true" />
+        <activity android:name="com.github.apppetr.doshatest.Yoga.PoseSeven" />
+        <activity android:name="com.github.apppetr.doshatest.Yoga.PoseSix" />
+        <activity android:name="com.github.apppetr.doshatest.Yoga.PoseFive" />
+        <activity android:name="com.github.apppetr.doshatest.Yoga.PoseFour" />
+        <activity android:name="com.github.apppetr.doshatest.Yoga.PoseThree" />
+        <activity android:name="com.github.apppetr.doshatest.Yoga.PoseTwo" />
+        <activity android:name="com.github.apppetr.doshatest.Yoga.PoseOne" />
+        <activity android:name="com.github.apppetr.doshatest.soundtherapy.MusicPlayer" />
+        <activity android:name="com.github.apppetr.doshatest.RateUs.LoveOurAppRateActivity" />
+        <activity
+            android:name="com.github.apppetr.doshatest.MainActivity"
+            android:label="@string/title_activity_main" />
+        <activity android:name="com.github.apppetr.doshatest.StartActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

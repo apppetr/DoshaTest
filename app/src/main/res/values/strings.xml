@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Доша Тест</string>
+    <string name="str_next">Следующий</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_result">Результаты</string>
+    <string name="begin_work">Продолжить</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_menu_nav">MenuNavActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_main">Доша Тест</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="morning">утро</string>
+    <string name="good">"Доброе "</string>
+
+    // Corpse Pose Steps
+    <string name="step1">1. Лягте на спину и расслабьтесь, ноги должны быть разведены. </string>
+    <string name="step2">2. Держите руки по бокам ладонями вверх. </string>
+    <string name="step3">3. Закройте глаза и дышите глубоко и медленно через ноздри. </string>
+    <string name="step4">4. Начните концентрироваться с головы до ног. </string>
+    <string name="step5">5. На каждом вдохе и выдохе (дыхании) думайте, что ваше тело полностью расслаблено. </string>
+
+    //Saff Pose
+    <string name="step6">1. Из позы планки переместитесь вперед на цыпочки. </string>
+    <string name="step7">2. Заземлите ладони и расширьте грудь. Сделайте вдох. </string>
+    <string name="step8">3. Согните руки в локтях под углом 90 градусов. Держите бедра приподнятыми к потолку. </string>
+    <string name="step9">4. Локти держите на одной линии с туловищем. Смотрите вперед. </string>
+    <string name="step10">5. Чтобы выйти из позы, опустите колени на землю. </string>
+
+    //Tree Pose
+    <string name="step11">1. Встаньте на расстоянии 2 дюйма друг от друга и сосредоточьтесь на точке впереди. </string>
+    <string name="step12">2. Согните правую ногу и поместите ступню на внутреннюю сторону левого бедра. </string>
+    <string name="step13">3. Вдохните, вытяните руки вверх и соедините ладони в Намасте. </string>
+    <string name="step14">4. Оставайтесь здесь столько, сколько сможете, сосредотачиваясь на одной точке. </string>
+    <string name="step15">5. Медленно выдыхая, опустите руки, а затем правую ногу, чтобы отдохнуть. </string>
+
+    //Bridge Pose
+    <string name="step16">1. Лягте на коврик спиной на пол. </string>
+    <string name="step17">2. Ступни подтяните внутрь к бедрам. </string>
+    <string name="step18">3. Колени не должны быть направлены наружу. </string>
+    <string name="step19">4. Теперь сделайте мостик.</string>
+    <string name="step20">5. Подбородок и грудь должны быть заблокированы. </string>
+
+    //Child Pose
+    <string name="step21">1. Встаньте на колени на циновке и разведитк бедра. </string>
+    <string name="step22">2. Опустите ягодицы к пяткам и согните позвоночник, наклоняя корпус вперед. </string>
+    <string name="step23">3. Опустите лоб вниз. </string>
+    <string name="step24">4. Положите руки за спину ладонями вверх. </string>
+    <string name="step25">5. Позвольте телу почувствовать поддержку земли под вами и глубоко дышите. </string>
+
+    //Cobra Pose
+    <string name="step26">1. Лягте на живот, расставив ноги на ширине бедер и поставив ступни на пол. </string>
+    <string name="step27">2. Согните руки в локтях и положите ладони на пол. </string>
+    <string name="step28">3. На вдохе прижмите ладони к полу. </string>
+    <string name="step29">4. Напрягите мышцы спины, поднимите грудь и голову. </string>
+    <string name="step30">5. На выдохе опустите туловище и медленно вернитесь на пол. </string>
+
+    //Warrior Pose
+    <string name="step31">1. Встаньте прямо и широко расставьте ноги. </string>
+    <string name="step32">2. Выверните левую ступню лицом к левой стороне мата. </string>
+    <string name="step33">3. Остальные ножки повернутся внутрь, образуя угол 45 градусов. </string>
+    <string name="step34">4. Полностью поверните корпус влево и опустите левое колено вперед под углом 90 градусов. </string>
+    <string name="step35">5. Примите позу Намасте, поднимите руки над головой, посмотрите вверх, немного выгните спину и потянитесь. </string>
+    <string name="title_activity_result_tabs">ResultTabsActivity</string>
+    <string name="tab_text_1">Доша распределение</string>
+    <string name="tab_text_2">Рекомендации</string>
+    <string name="str_restart">Обнулить результаты!</string>
+    <string name="str_test_finished">Тест завршен!</string>
+    <string name="child_pose">Поза ребенка</string>
+    <string name="Шаги">STEPS:</string>
+    <string name="Длительность">Duration:</string>
+    <string name="_10_00">10:00</string>
+    <string name="Старт">start</string>
+    <string name="Сброс">Reset</string>
+    <string name="bridge_pose">Поза мост</string>
+    <string name="accounts">Результаты</string>
+    <string name="history">Йога</string>
+    <string name="settings">Музыка</string>
+    <string name="rate_us">Оцени нас</string>
+    <string name="share_us">Поделиться</string>
+    <string name="post">Тест</string>
+    <string name="love_our_app">Оцените наше приложение</string>
+    <string name="please_give_five">Поставьте нам пять звезд!</string>
+    <string name="rate_now">Отправить оценку</string>
+    <string name="no_thanks">Нет спасибо</string>
+    <string name="corpse_pose">"Поза трупа "</string>
+    <string name="steps">ШАГИ:</string>
+    <string name="duration">Длительность:</string>
+    <string name="start">СТАРТ</string>
+    <string name="reset">СБРОС</string>
+    <string name="staff_pose">"Поза Посоха "</string>
+    <string name="warrior_pose">"Поза Воина "</string>
+    <string name="cobra_pose">Поза Кобры</string>
+    <string name="tree_pose">Поза Дерева</string>
+    <string name="music">Музыка для медитации</string>
+    <string name="yoga">Йога позы для вашей доши</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textNoTest">Для получения результатов, пройдите тест</string>
+
+</resources>
